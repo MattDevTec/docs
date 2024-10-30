@@ -107,14 +107,14 @@ nav:
     - Setup:
     #    - First steps: setup/first-steps.md
     #   - Getting to know the Admin Panel: setup/getting-to-know-the-admin-panel.md
-        - setup/index.md
+          - setup/index.md
           - Docker Setup: docker/setup.md
           - Reverse Proxies: docker/reverse-proxies.md
           - Other webservers: setup/other-webservers.md
 
     #    - Disable registration: setup/disable-registration.md
     - Configuration:
-        - configure/index.md
+          - configure/index.md
     #     - Email verification: configuration/email-verification.md
     #     - Internal notifications: configuration/internal-notifications.md
     #     - Home URL: configuration/home-url.md
