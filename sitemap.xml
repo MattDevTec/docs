@@ -8,4 +8,12 @@
          <loc>https://docs.linkstack.org/faq/</loc>
          <lastmod>2024-10-30</lastmod>
     </url>
+    <url>
+         <loc>https://docs.linkstack.org/getting-started/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.linkstack.org/setup/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
 </urlset>
