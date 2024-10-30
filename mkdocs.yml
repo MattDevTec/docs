@@ -101,16 +101,16 @@ nav:
         - FAQ: faq.md
     - Getting started:
         - getting-started/index.md
-        - Requirements: getting-started/requirements.md
-        - Download: getting-started/download.md
+    #    - Requirements: getting-started/requirements.md
+    #    - Download: getting-started/download.md
   
     - Setup:
     #    - First steps: setup/first-steps.md
     #   - Getting to know the Admin Panel: setup/getting-to-know-the-admin-panel.md
           - setup/index.md
-          - Docker Setup: docker/setup.md
-          - Reverse Proxies: docker/reverse-proxies.md
-          - Other webservers: setup/other-webservers.md
+    #      - Docker Setup: docker/setup.md
+    #      - Reverse Proxies: docker/reverse-proxies.md
+    #      - Other webservers: setup/other-webservers.md
 
     #    - Disable registration: setup/disable-registration.md
     - Configuration:
@@ -125,7 +125,7 @@ nav:
     #     - Cache Settings: configuration/cache-settings.md
     #     - Miscellaneous Settings: configuration/miscellaneous-settings.md
     #     - Social login: configuration/social-login.md
-          - Edit Terms, Privacy and Contact: configuration/edit-terms-privacy-and-contact.md
+    #      - Edit Terms, Privacy and Contact: configuration/edit-terms-privacy-and-contact.md
 
 
 extra:
