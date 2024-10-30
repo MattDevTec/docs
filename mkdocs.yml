@@ -162,8 +162,8 @@ plugins:
       type: timeago
       timezone: Europe/Berlin
       locale: en
-      fallback_to_build_date: false
-      enable_creation_date: true
+      fallback_to_build_date: true
+      enable_creation_date: false
       enabled: true
   - git-authors:
       show_contribution: true
