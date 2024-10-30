@@ -114,7 +114,7 @@ nav:
 
     #    - Disable registration: setup/disable-registration.md
     - Configuration:
-          - configure/index.md
+          - configuration/index.md
     #     - Email verification: configuration/email-verification.md
     #     - Internal notifications: configuration/internal-notifications.md
     #     - Home URL: configuration/home-url.md
