@@ -101,7 +101,7 @@ nav:
     #    - FAQ: faq.md
     - Getting started:
         - getting-started/index.md
-    #    - Requirements: getting-started/requirements.md
+        - Requirements: getting-started/requirements.md
     #    - Download: getting-started/download.md
   
     - Setup:
