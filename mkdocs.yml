@@ -98,7 +98,7 @@ markdown_extensions:
 nav:
     - Overview:
         - index.md
-        - FAQ: faq.md
+    #    - FAQ: faq.md
     - Getting started:
         - getting-started/index.md
     #    - Requirements: getting-started/requirements.md
