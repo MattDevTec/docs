@@ -11,7 +11,7 @@ Please ensure that the minimum requirements are met to ensure LinkStack function
 
 ## Required PHP Modules
 
-Please ensure that all the PHP modules listed below are installed and enabled on your webserver. Without these, LinkStack will not function.
+Please ensure that all the PHP modules listed below are installed and enabled on your webserver, without these LinkStack will not function.
 
 - BCMath PHP Extension
 - Ctype PHP Extension
