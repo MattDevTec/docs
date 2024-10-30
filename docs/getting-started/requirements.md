@@ -1,7 +1,7 @@
 # Requirements
 
 ## Webserver Requirements
-Please ensure that the minimum requirements are met, to ensure LinkStack functions as expected.
+Please ensure that the minimum requirements are met to ensure LinkStack functions as expected.
 
 - Apache Web Server with .htaccess support
 - Apache Module mod_rewrite
@@ -10,7 +10,8 @@ Please ensure that the minimum requirements are met, to ensure LinkStack functio
 - Access over HTTPS and with a valid SSL certificate
 
 ## Required PHP Modules
-Please ensure that all of the PHP modules listed below are installed and enabled on your webserver, if they are not, LinkStack Will not function.
+
+Please ensure that all the PHP modules listed below are installed and enabled on your webserver. Without these, LinkStack will not function.
 
 - BCMath PHP Extension
 - Ctype PHP Extension
