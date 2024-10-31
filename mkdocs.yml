@@ -98,12 +98,11 @@ markdown_extensions:
 nav:
     - Overview:
         - index.md
-    #    - FAQ: faq.md
-        - Download: download.md
+        - FAQ: faq.md
   
     - Web Server Setup:
             - Download: download.md
-            - Requirements: download.md
+            - Requirements: webserver-setup/download.md
 
     #    - First steps: setup/first-steps.md
     #   - Getting to know the Admin Panel: setup/getting-to-know-the-admin-panel.md
