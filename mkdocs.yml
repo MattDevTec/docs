@@ -102,14 +102,16 @@ nav:
         - Download: download.md
   
     - Web Server Setup:
+          - setup/index.md
     #    - First steps: setup/first-steps.md
     #   - Getting to know the Admin Panel: setup/getting-to-know-the-admin-panel.md
-          - setup/index.md
     #      - Docker Setup: docker/setup.md
     #      - Reverse Proxies: docker/reverse-proxies.md
     #      - Other webservers: setup/other-webservers.md
-
     #    - Disable registration: setup/disable-registration.md
+    - Docker Setup: 
+          -  Docker/index.md
+
     - Configuration:
           - configuration/index.md
     #     - Email verification: configuration/email-verification.md
