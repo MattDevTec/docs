@@ -102,6 +102,9 @@ nav:
         - Download: download.md
   
     - Web Server Setup:
+            - Download: download.md
+            - Requirements: download.md
+
     #    - First steps: setup/first-steps.md
     #   - Getting to know the Admin Panel: setup/getting-to-know-the-admin-panel.md
     #      - Docker Setup: docker/setup.md
