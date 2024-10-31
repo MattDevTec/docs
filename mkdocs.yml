@@ -1,5 +1,5 @@
-site_name: LinkStack documentation
-site_description: Documentation of the open-source Linktree alternative
+site_name: LinkStack Documentation
+site_description: Documentation for LinkStack
 site_url: 'https://docs.linkstack.org'
 
 repo_url: https://github.com/LinkStackOrg/LinkStack
@@ -102,7 +102,6 @@ nav:
         - Download: download.md
   
     - Web Server Setup:
-          - setup/index.md
     #    - First steps: setup/first-steps.md
     #   - Getting to know the Admin Panel: setup/getting-to-know-the-admin-panel.md
     #      - Docker Setup: docker/setup.md
