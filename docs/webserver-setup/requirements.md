@@ -31,4 +31,4 @@ Depending on your database type:
 - SQLite PHP Extension (default option, no database configuration is required)
 - MySQL PHP Extension 
 
-Please note that this documentation does not apply to Docker hosted instances, and will not be correct. If you are using Docker, please see the documentation [here](./docker-setup/)
+Please note that this documentation does not apply to Docker hosted instances, and will not be correct. If you are using Docker, please see the documentation [here](./docker-setup/download.md)
