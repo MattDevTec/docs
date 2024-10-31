@@ -101,8 +101,8 @@ nav:
         - FAQ: faq.md
   
     - Web Server Setup:
-            - Download: download.md
-            - Requirements: webserver-setup/download.md
+            - Download: webserver-setup/download.md
+            - Requirements: webserver-setup/requirements.md
 
     #    - First steps: setup/first-steps.md
     #   - Getting to know the Admin Panel: setup/getting-to-know-the-admin-panel.md
