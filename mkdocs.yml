@@ -146,7 +146,7 @@ extra:
       link: https://linkstack.org/donate
       name: Sponsor us
 
-copyright: Copyright &copy; 2022 - 2023 LittleLink Custom | 2023 - present LinkStack 
+copyright: Copyright &copy; 2024 LinkStack. All rights reserved
 
 extra_css:
   - assets/css/style.css
